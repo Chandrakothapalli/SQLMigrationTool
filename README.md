@@ -2,7 +2,7 @@
 
 A Python-based desktop application that facilitates the migration of tables between SQL Server databases with a user-friendly graphical interface.
 
-![SQL Migration Tool](screenshots/app_screenshot.png) *(Screenshot to be added)*
+![SQL Migration Tool]
 
 ## Features
 
