@@ -24,8 +24,8 @@ A Python-based desktop application that facilitates the migration of tables betw
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sql-migration-tool.git
-cd sql-migration-tool
+git clone [https://github.com/yourusername/sql-migration-tool.git](https://github.com/Chandrakothapalli/SQLMigrationTool)
+
 ```
 
 2. Install required dependencies:
